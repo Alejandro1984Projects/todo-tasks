@@ -1,0 +1,15 @@
+{
+  "name": "todo-tasks",
+  "version": "1.0.0",
+  "description": "Aplicacion para crear tareas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Ortiz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.4"
+  }
+}
